@@ -1,0 +1,22 @@
+body {
+    background: RosyBrown;
+    color: BurlyWood;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+
+img {
+    width: 20%;
+}
+
+img#PSB {
+    width: 10%;
+}
+
+section {
+    background: DarkOliveGreen;
+    width: 90%;
+    margin: auto;
+    padding:1em;
+}
